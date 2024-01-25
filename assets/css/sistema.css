@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,500;0,700;0,900;1,700&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    min-width: 375px;
+}
+
+header a {
+    text-decoration: none;
+    font-weight: 700;
+    color: black;
+    font-size: 2em;
+}
+
+.box {
+    background-color: aqua;
+    width: 150px;
+    height: 150px;
+}
+
+#link-box {
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+}
